@@ -140,7 +140,7 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 ```shell script
 git clone https://github.com/Tungdabiban248/MHDDoS.git
 cd MHDDoS
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
