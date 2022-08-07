@@ -138,16 +138,11 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/Tungdabiban248/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
 [github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
-
----
-
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 
